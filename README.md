@@ -9,10 +9,18 @@ something that Rachel would watch.
 
 PRs to add movies and comments are welcome.
 
-* [Star Wars IV: A New Hope](http://www.imdb.com/title/tt0076759/)
+### Movies Rachel Should See
+
+* [Star Wars V: The Empire Strikes Back](http://www.imdb.com/title/tt0080684)
 * [Inside Out](http://www.imdb.com/title/tt2096673/)
-* [District 9](http://www.imdb.com/title/tt1136608/)
 * [Modern Times](http://www.imdb.com/title/tt0027977/)
 * [The Usual Suspects](http://www.imdb.com/title/tt0114814/)
 * [Dr. Strangelove](http://www.imdb.com/title/tt0057012/)
+* [Babe](http://www.imdb.com/title/tt0112431)
+
+
+### Movies Rachel Has Seen That She Likes
+
+* [Up](http://www.imdb.com/title/tt1049413/)
+* [Wall-E](http://www.imdb.com/title/tt0910970)
 
