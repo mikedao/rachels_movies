@@ -17,7 +17,7 @@ PRs to add movies and comments are welcome.
 * [The Usual Suspects](http://www.imdb.com/title/tt0114814/)
 * [Dr. Strangelove](http://www.imdb.com/title/tt0057012/)
 * [Babe](http://www.imdb.com/title/tt0112431)
-
+* [The Lion King](www.imdb.com/title/tt0110357)
 
 ### Movies Rachel Has Seen That She Likes
 
