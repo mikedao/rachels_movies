@@ -18,6 +18,8 @@ PRs to add movies and comments are welcome.
 * [Dr. Strangelove](http://www.imdb.com/title/tt0057012/)
 * [Babe](http://www.imdb.com/title/tt0112431)
 * [The Lion King](www.imdb.com/title/tt0110357)
+* [Homeward Bound](http://www.imdb.com/title/tt0107131/)
+* [Jurassic Park](http://www.imdb.com/title/tt0107290/)
 
 ### Movies Rachel Has Seen That She Likes
 
